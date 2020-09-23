@@ -1,6 +1,4 @@
-# Spotify
-
-SPOTIFY DATASET(1920-2020)
+# Spotify Dataset (1920-2020)
 
 We have more than 160k songs from the Spotify Web API from year 1920-2020. The dataset lists features like danceability, acousticness, loudness etc. for different songs along with their release year and popularity.
 
